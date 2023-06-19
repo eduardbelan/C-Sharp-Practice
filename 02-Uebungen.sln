@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07Lotto", "07Lotto\07Lotto.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08BubbleSort", "08BubbleSort\08BubbleSort.csproj", "{E5F098CA-5B36-4903-B2BA-DD1E6C6A5460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.2-calculator-class-oop", "03.1-calculator-class-oop\03.2-calculator-class-oop.csproj", "{626E1740-99E8-4989-A85F-2E7D59C4E09D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.2-calculator-class-oop", "03.1-calculator-class-oop\03.2-calculator-class-oop.csproj", "{626E1740-99E8-4989-A85F-2E7D59C4E09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09CoffeeMachine", "09CoffeeMachine\09CoffeeMachine.csproj", "{BBC8632B-327C-4794-9FAC-AD6E409B044B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{626E1740-99E8-4989-A85F-2E7D59C4E09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{626E1740-99E8-4989-A85F-2E7D59C4E09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{626E1740-99E8-4989-A85F-2E7D59C4E09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC8632B-327C-4794-9FAC-AD6E409B044B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC8632B-327C-4794-9FAC-AD6E409B044B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC8632B-327C-4794-9FAC-AD6E409B044B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC8632B-327C-4794-9FAC-AD6E409B044B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
