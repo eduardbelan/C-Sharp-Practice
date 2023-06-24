@@ -8,5 +8,13 @@ coffeemachine.ClearOrder();
 
 
 // animation when water and coffee are refilled * DONE
-
 // animation when coffee is brewed
+
+
+// Lösung Unterricht
+//using _09Kaffeemaschine;
+
+//Kaffeemaschine kaffeemaschine1 = new Kaffeemaschine(100, 100);
+
+
+//kaffeemaschine1.KaffeeMenue();
