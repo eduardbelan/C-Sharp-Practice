@@ -7,5 +7,6 @@ Coffeemachine coffeemachine = new Coffeemachine(waterlvl: 0, coffeelvl: 0, maxWa
 coffeemachine.ClearOrder();
 
 
-// animation when water and coffee are refilled
+// animation when water and coffee are refilled * DONE
+
 // animation when coffee is brewed
